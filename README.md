@@ -17,6 +17,7 @@ Panduan ini dibagi jadi beberapa bagian sederhana yang bisa kamu baca sesuai keb
   * [File .APK Undangan / Paket di WhatsApp](./02-skenario-penipuan/mod-01-apk-kurir-undangan.md)
   * [Telepon Panik / Darurat Keluarga](./02-skenario-penipuan/mod-02-telepon-darurat-keluarga.md)
   * [Link Diskon & Login Palsu](./02-skenario-penipuan/mod-03-link-diskon-login-palsu.md)
+  * [Telepon Video AI Palsu (Deepfake)](./02-skenario-penipuan/mod-04-video-call-ai-palsu.md)
 * ✅ **[03. Checklist 10 Menit Amankan HP](./03-checklist-amankan-hp/)**  
   Langkah demi langkah mengunci akun penting kamu:
   * [Pengaturan Keamanan WhatsApp](./03-checklist-amankan-hp/checklist-whatsapp.md)
