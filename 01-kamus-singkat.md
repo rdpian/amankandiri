@@ -89,4 +89,3 @@ Dengar istilah teknis keamanan internet sering bikin pusing? Tenang! Di sini, is
 | \*\*2FA\*\* | Gembok Ganda | Selalu aktifkan di WhatsApp \& Email. |
 
 | \*\*File .APK\*\* | Aplikasi Gelap | Wajib abaikan kalau dikirim via WhatsApp. |
-
