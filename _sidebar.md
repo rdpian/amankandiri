@@ -6,6 +6,7 @@
     * [File .APK Undangan](./02-skenario-penipuan/mod-01-apk-kurir-undangan.md)
     * [Telepon Darurat Palsu](./02-skenario-penipuan/mod-02-telepon-darurat-keluarga.md)
     * [Web Login Palsu](./02-skenario-penipuan/mod-03-link-diskon-login-palsu.md)
+    * [Video Call AI Palsu](./02-skenario-penipuan/mod-04-video-call-ai-palsu.md)
   * [✅ 03. Checklist HP](./03-checklist-amankan-hp/)
     * [Keamanan WhatsApp](./03-checklist-amankan-hp/checklist-whatsapp.md)
     * [M-Banking & Email](./03-checklist-amankan-hp/checklist-m-banking.md)
